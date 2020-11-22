@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "560112358611",
+    "firebase_url": "https://windsorrideshare.firebaseio.com",
+    "project_id": "windsorrideshare",
+    "storage_bucket": "windsorrideshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560112358611:android:d554b2168b09c908d9f026",
+        "android_client_info": {
+          "package_name": "com.example.rideshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560112358611-ogh56o14dq69rqqs37cug03s9afj21op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvodpQuWeUF2Sz2lz26YGNLjMYGoit4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560112358611-ogh56o14dq69rqqs37cug03s9afj21op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560112358611:android:a9406167e33dcd7ad9f026",
+        "android_client_info": {
+          "package_name": "com.example.rideshareuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560112358611-ogh56o14dq69rqqs37cug03s9afj21op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvodpQuWeUF2Sz2lz26YGNLjMYGoit4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560112358611-ogh56o14dq69rqqs37cug03s9afj21op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560112358611:android:b941c80a26903a43d9f026",
+        "android_client_info": {
+          "package_name": "com.example.windsorrideshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560112358611-ogh56o14dq69rqqs37cug03s9afj21op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvodpQuWeUF2Sz2lz26YGNLjMYGoit4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560112358611-ogh56o14dq69rqqs37cug03s9afj21op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
